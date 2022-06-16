@@ -1,12 +1,4 @@
-# api-data-challenge-public
-
-# Instructions
-1. Click "Use this template" to create a copy of this repository in your personal github account.  
-1. Using technology of your choice, complete assignment listed below.
-1. Update the README in your new repo with:
-    * a `How-To` section containing any instructions needed to execute your program.
-    * an `Assumptions` section containing documentation on any assumptions made while interpreting the requirements.
-1. Send an email to Scoir (smoir@scoir.com) with a link to your newly created repo containing the completed exercise.
+# api-data-challenge-public-response
 
 ## Expectations
 1. This exercise is meant to drive a conversation. 
@@ -24,3 +16,16 @@ Example output:
 The most popular birth month was June with 104 users
 The most popular first name of users born in June was Raymond
 ```
+## How-To
+Simply run:
+```
+python3 api.py
+```
+
+To run with loading prints on, run:
+```
+python3 api.py --load
+```
+
+## Assumptions
+Python 3 is permitted as a language for conducting and processing the api-calls.
